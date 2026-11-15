@@ -1,0 +1,6 @@
+{
+  "name": "Warmier: Rise of Cyclops",
+  "description": "A 3D science-fiction action-adventure mobile game featuring Chapter 1: The Falling Asteroid, cinematic cutscenes, Cyclops enemies, and Boss Ravok.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

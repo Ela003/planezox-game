@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Warmier: Rise of Cyclops</string>
+    <string name="game_title">WARMIER: THE RISE OF THE CYCLOPS</string>
+    <string name="game_subtitle">CHAPTER 1 · THE FALLING ASTEROID</string>
+    <string name="btn_new_game">NEW CAMPAIGN</string>
+    <string name="btn_continue_story">CONTINUE CHAPTER 1</string>
+    <string name="btn_chapters">CHAPTERS</string>
+    <string name="btn_settings">SETTINGS</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_reset_camera">Center</string>
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_quality_label">Graphics Quality</string>
+    <string name="settings_shadows_label">Dynamic Shadows</string>
+    <string name="settings_shadows_desc">Cast real-time sun shadows from trees, rocks, and character</string>
+    <string name="settings_fog_label">Atmospheric Fog</string>
+    <string name="settings_fog_desc">Depth haze blending distant forest ridges and mountains</string>
+    <string name="settings_sensitivity_label">Camera Sensitivity</string>
+    <string name="settings_invert_y_label">Invert Camera Y-Axis</string>
+    <string name="settings_fps_label">Show FPS Counter</string>
+    <string name="controls_guide_title">CONTROLS</string>
+    <string name="controls_guide_body">Use the left thumbstick (or WASD keys) to walk the explorer. Drag anywhere on the screen to orbit the third-person camera.</string>
+    <string name="hud_orbit_hint">Drag screen to orbit camera</string>
+    <string name="cd_game_emblem">Shadows of the Ancients emblem</string>
+    <string name="cd_open_settings">Open settings</string>
+    <string name="cd_return_menu">Return to main menu</string>
+    <string name="cd_reset_position">Reset explorer to center clearing</string>
+    <string name="cd_close_settings">Close settings</string>
+</resources>
